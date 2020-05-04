@@ -1,0 +1,68 @@
+[
+    {
+        "sprint_name": "Authentication",
+        "sprint_code": "001",
+        "active": true,
+        "status": "ongoing",
+        "date_started": "2020-05-04",
+        "stories": [
+            {
+                "story_name": "Bottom Navigation",
+                "story_slug": "bottom_nav_001",
+                "date_started": "2020-05-04",
+                "date_completed": "2020-05-06",
+                "status": "completed",
+                "active": true
+            },
+            {
+                "story_name": "Login Register UI",
+                "story_slug": "login_reg_ui_002",
+                "date_started": "2020-05-04",
+                "date_completed": "2020-05-06",
+                "status": "none",
+                "active": false
+            },
+            {
+                "story_name": "Password Reset UI",
+                "story_slug": "pass_reset_ui_003",
+                "date_started": "2020-05-04",
+                "date_completed": "2020-05-06",
+                "status": "none",
+                "active": false
+            }
+        ]
+    },
+    {
+        "sprint_name": "Delivery",
+        "sprint_code": "002",
+        "active": false,
+        "status": "none",
+        "date_started": null,
+        "stories": [
+            {
+                "story_name": "Bottom Navigation",
+                "story_slug": "bottom_nav_001",
+                "date_started": "2020-05-04",
+                "date_completed": "2020-05-06",
+                "status": "none",
+                "active": false
+            },
+            {
+                "story_name": "Login Register UI",
+                "story_slug": "login_reg_ui_002",
+                "date_started": "2020-05-04",
+                "date_completed": "2020-05-06",
+                "status": "none",
+                "active": false
+            },
+            {
+                "story_name": "Password Reset UI",
+                "story_slug": "pass_reset_ui_003",
+                "date_started": "2020-05-04",
+                "date_completed": "2020-05-06",
+                "status": "none",
+                "active": false
+            }
+        ]
+    }
+]
